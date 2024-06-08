@@ -1,5 +1,5 @@
 
-![Rec0061-ezgif com-video-to-gif-converter](https://github.com/HodaSedighi/Solar-System-Animation/assets/34411345/70f3fa9c-f23c-4919-83a1-452c434a3892)
+           ![Rec0061-ezgif com-video-to-gif-converter](https://github.com/HodaSedighi/Solar-System-Animation/assets/34411345/70f3fa9c-f23c-4919-83a1-452c434a3892)
 
 
 The provided code creates a simple animation of a solar system with the Sun at the center and a single planet (representing Earth) orbiting around it. Here's an introduction to the code:
